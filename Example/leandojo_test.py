@@ -1,7 +1,7 @@
 from lean_dojo import LeanGitRepo, trace
 
 ''' Test 1: My Repo'''
-repo = LeanGitRepo("https://github.com/manooshree/lean-example", "061e07dbd3a02d9e1225e218359704e30e83139f")
+repo = LeanGitRepo("https://github.com/manooshree/lean-example", "d3de7d6c3f0ceb4dd7d2b1be0d2a4b01d90a2f4c")
 trace(repo, dst_dir="Test4_traced_lean4-example")
 
 
